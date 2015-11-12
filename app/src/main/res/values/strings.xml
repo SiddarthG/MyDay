@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyDay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_read">ReadActivity</string>
+    <string name="cityName">City</string>
+    <string name="rating">Ratings</string>
+    <string name="loc">Location</string>
+    <string name="disc">Discount</string>
+    <string name="actualprice">Actual Price</string>
+    <string name="price">Price</string>
+    <string name="sortText">sort</string>
+    <string-array name="city">
+        <item name="0">All</item>
+        <item name="1">Bangalore</item>
+        <item name="2">Mumbai</item>
+        <item name="3">Delhi</item>
+        <item name="4">Kolkatta</item>
+        <item name="5">Chennai</item>
+        <item name="6">Ahmedabad</item>
+        <item name="7">Goa</item>
+
+    </string-array>
+</resources>
